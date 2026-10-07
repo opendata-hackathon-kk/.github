@@ -1,6 +1,6 @@
 # Hackathon otevřených dat Karlovarského kraje
 
-Hackathon na kterém týmy studentů stavějí aplikace nad otevřenými daty Karlovarského kraje z [DATAZÁPAD](https://datazapad.cz).
+Hackathon, na kterém týmy studentů stavějí aplikace nad otevřenými daty Karlovarského kraje z [DATAZÁPAD](https://datazapad.cz).
 Pořádá [Krajské inovační centrum Karlovarského kraje](https://kickk.cz).
 
 ## Ročníky
@@ -14,7 +14,7 @@ Pořádá [Krajské inovační centrum Karlovarského kraje](https://kickk.cz).
 - Projekty jsou prototypy, nejde o oficiální služby Karlovarského kraje ani KIC KK.
 
 ## Data
-Data © Krajské inovační centrum Karlovarského kraje, příspěvková organizace a Karlovarský kraj, zdroj [Katalog otevřených dat Karlovarského kraje](https://www.datazapad.cz/search?collection=dataset&layout=grid), licence CC BY 4.0.
+Data © Karlovarský kraj, Krajské inovační centrum Karlovarského kraje, příspěvková organizace, zdroj [Katalog otevřených dat Karlovarského kraje](https://www.datazapad.cz/search?collection=dataset&layout=grid), licence CC BY 4.0.
 
 ## Kontakt
 [Web hackathonu](https://kickk.cz/hackathon-2026/)
